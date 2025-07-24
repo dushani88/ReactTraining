@@ -1,10 +1,7 @@
-
-import Header from "./Header.jsx"
+import Page from "./Page.jsx";
 
 function App() {
-  return(
-    <Header />
-  ) 
+  return <Page />;
 }
 
-export default App
+export default App;
